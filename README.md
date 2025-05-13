@@ -81,4 +81,4 @@ plt.show()
 
 # Results
 Thus the Flat top sampling is performed using python.
-# Hardware experiment output waveform.
+
